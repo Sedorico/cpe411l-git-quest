@@ -9,3 +9,5 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: on branch student-karl
 
 LEVEL 6 CHEST CODE: FOX-7
+
+LEVEL 8 PR LINK: https://github.com/Sedorico/cpe411l-git-quest/pull/1
